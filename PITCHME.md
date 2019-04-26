@@ -1,6 +1,6 @@
 +++
 ## What is Mutating State?
-<img src="./resources/mutate.jpeg" width="250" height="250"/>
+<img src="./mutate.jpeg" width="250" height="250"/>
  OOP
  React and JS typically functional programming
 +++
@@ -11,7 +11,7 @@
 +++
 
 ### What are Pure functions?
-<img src="./resources/pure.png" width="250" height="250"/>
+<img src="./pure.png" width="250" height="250"/>
 +++
 
 ### SMOKE TESTING
