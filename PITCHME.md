@@ -1,6 +1,6 @@
 +++
 ## What is Mutating State?
-<img src="./mutate.jpeg" width="250" height="250"/>
+<img src="./mutate.jpeg" width="150" height="150"/>
  OOP
  React and JS typically functional programming
 +++
@@ -14,8 +14,5 @@
 <img src="./pure.png" width="250" height="250"/>
 +++
 
-### SMOKE TESTING
-
-+++
 
 ### Questions / Feedback ?
