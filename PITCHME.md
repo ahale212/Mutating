@@ -1,8 +1,9 @@
 +++
-## What is Mutating State?
-<img src="./mutate.jpeg" width="150" height="150"/>
+### What is Mutating State?
+
 - OOP
 - React and JS typically functional programming
+<img src="./mutate.jpeg" width="150" height="150"/>
 +++
 
 ### Why do we not want to do this?
