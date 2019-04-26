@@ -3,7 +3,7 @@
 
 - OOP
 - React and JS typically functional programming
-<img src="./mutate.jpeg" width="150" height="150"/>
+<img src="./mutate.jpeg" width="350" height="350"/>
 +++
 
 ### Why do we not want to do this?
@@ -12,7 +12,7 @@
 +++
 
 ### What are Pure functions?
-<img src="./pure.png" width="250" height="250"/>
+<img src="./pure.png" width="350" height="350"/>
 +++
 
 
